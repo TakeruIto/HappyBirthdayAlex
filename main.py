@@ -16,7 +16,7 @@ CHAR_SIZE = 100
 def main():
     wn = turtle.Screen()
 
-    line = "ABCD EFG\nHIJ KLM\nNOP QRS\nTUV WXY\nZ!?"
+    line = "HAPPY BIRTHDAY\nALEX!!"
     line = line.upper()
     pos = getPosition(line)
     stream = []
